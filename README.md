@@ -1,28 +1,65 @@
 # ☁️ AWS Cloud Computing Labs
 
-Repositório destinado à documentação dos laboratórios realizados durante minha formação em Cloud Computing.
+Documentação dos laboratórios práticos realizados durante minha jornada de formação em Cloud Computing.
 
-## 📚 Objetivo
+## 🎯 Sobre o Projeto
 
-Este repositório reúne atividades práticas, desafios e laboratórios desenvolvidos ao longo do curso, abordando conceitos fundamentais de computação em nuvem utilizando serviços AWS.
+Este repositório reúne atividades práticas desenvolvidas durante meus estudos de Computação em Nuvem, com foco em serviços AWS, redes, segurança, infraestrutura e boas práticas de arquitetura.
 
-## 🚀 Laboratórios
+Cada laboratório contém:
 
-| Nº | Laboratório | Status |
-|----|------------|---------|
+- Objetivos
+- Cenário proposto
+- Evidências da execução
+- Análise técnica
+- Conclusões
+
+---
+
+## 📚 Laboratórios
+
+| # | Laboratório | Status |
+|---|------------|---------|
 | 01 | Protocolos da Internet - Endereços IP Públicos e Privados | ✅ Concluído |
+
+---
 
 ## 🛠️ Tecnologias e Serviços
 
+### Computação
+
 - Amazon EC2
+- Amazon Linux
+
+### Redes
+
 - Amazon VPC
+- IPv4 Público
+- IPv4 Privado
+- CIDR
 - Internet Gateway (IGW)
 - SSH
-- Amazon Linux
-- Redes
-- IPv4 Público e Privado
+
+### Conceitos
+
 - Cloud Computing
+- Troubleshooting
+- Conectividade de Rede
+- RFC 1918
+
+---
+
+## 🎓 Formação
+
+Curso: Cloud Computing  
+Instituição: Escola da Nuvem
+
+---
 
 ## 👨‍💻 Autor
 
-João Victor Bezerra de Araújo
+**João Victor Bezerra de Araújo**
+
+[LinkedIn](www.linkedin.com/in/joão-victor-software)
+
+[GitHub](https://github.com/jvictorb-a)
