@@ -22,6 +22,7 @@ Cada laboratório contém:
 |---|------------|---------|
 | 01 | Protocolos da Internet - Endereços IP Públicos e Privados | ✅ Concluído |
 | 02 | Protocolos da Internet - Endereços Estáticos e Dinâmicos | ✅ Concluído |
+| 03 | Amazon VPC - Sub-redes e Endereçamento IP | ✅ Concluído |
 
 ---
 
@@ -35,6 +36,7 @@ Cada laboratório contém:
 ### Redes
 
 - Amazon VPC
+- Subnets
 - IPv4 Público
 - IPv4 Privado
 - Elastic IP (EIP)
@@ -51,6 +53,10 @@ Cada laboratório contém:
 - Endereçamento IP Estático
 - Endereçamento IP Dinâmico
 - Elastic IP Association
+- Subnetting
+- Planejamento de Redes
+- Segmentação de Rede
+- Endereçamento CIDR
 
 ---
 
