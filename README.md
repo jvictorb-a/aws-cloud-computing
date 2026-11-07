@@ -23,6 +23,7 @@ Cada laboratório contém:
 | 01 | Protocolos da Internet - Endereços IP Públicos e Privados | ✅ Concluído |
 | 02 | Protocolos da Internet - Endereços Estáticos e Dinâmicos | ✅ Concluído |
 | 03 | Amazon VPC - Sub-redes e Endereçamento IP | ✅ Concluído |
+| 04 | Roteamento e Conectividade em uma Amazon VPC | ✅ Concluído |
 
 ---
 
@@ -37,12 +38,16 @@ Cada laboratório contém:
 
 - Amazon VPC
 - Subnets
+- Route Tables
+- Network ACL (NACL)
+- Security Groups
 - IPv4 Público
 - IPv4 Privado
 - Elastic IP (EIP)
 - CIDR
 - Internet Gateway (IGW)
 - SSH
+- ICMP (Ping)
 
 ### Conceitos
 
@@ -57,6 +62,12 @@ Cada laboratório contém:
 - Planejamento de Redes
 - Segmentação de Rede
 - Endereçamento CIDR
+- Roteamento de Rede
+- Controle de Tráfego
+- Firewall em Nível de Instância
+- Firewall em Nível de Sub-rede
+- Arquitetura de Redes na AWS
+- Comunicação com a Internet
 
 ---
 
