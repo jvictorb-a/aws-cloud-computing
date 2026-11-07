@@ -21,6 +21,7 @@ Cada laboratório contém:
 | # | Laboratório | Status |
 |---|------------|---------|
 | 01 | Protocolos da Internet - Endereços IP Públicos e Privados | ✅ Concluído |
+| 02 | Protocolos da Internet - Endereços Estáticos e Dinâmicos | ✅ Concluído |
 
 ---
 
@@ -36,6 +37,7 @@ Cada laboratório contém:
 - Amazon VPC
 - IPv4 Público
 - IPv4 Privado
+- Elastic IP (EIP)
 - CIDR
 - Internet Gateway (IGW)
 - SSH
@@ -46,13 +48,16 @@ Cada laboratório contém:
 - Troubleshooting
 - Conectividade de Rede
 - RFC 1918
+- Endereçamento IP Estático
+- Endereçamento IP Dinâmico
+- Elastic IP Association
 
 ---
 
 ## 🎓 Formação
 
-Curso: Cloud Computing  
-Instituição: Escola da Nuvem
+**Curso:** Cloud Computing  
+**Instituição:** Escola da Nuvem
 
 ---
 
@@ -60,6 +65,6 @@ Instituição: Escola da Nuvem
 
 **João Victor Bezerra de Araújo**
 
-[LinkedIn](www.linkedin.com/in/joão-victor-software)
+🔗 LinkedIn: https://www.linkedin.com/in/joão-victor-software
 
-[GitHub](https://github.com/jvictorb-a)
+🔗 GitHub: https://github.com/jvictorb-a
