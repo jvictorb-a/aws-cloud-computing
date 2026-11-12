@@ -24,6 +24,7 @@ Cada laboratório contém:
 | 02 | Protocolos da Internet - Endereços Estáticos e Dinâmicos | ✅ Concluído |
 | 03 | Amazon VPC - Sub-redes e Endereçamento IP | ✅ Concluído |
 | 04 | Roteamento e Conectividade em uma Amazon VPC | ✅ Concluído |
+| 05 | Criar sua VPC e Iniciar um Servidor Web | ✅ Concluído |
 
 ---
 
@@ -33,6 +34,7 @@ Cada laboratório contém:
 
 - Amazon EC2
 - Amazon Linux
+- Apache HTTP Server (HTTPd)
 
 ### Redes
 
@@ -48,6 +50,7 @@ Cada laboratório contém:
 - Internet Gateway (IGW)
 - SSH
 - ICMP (Ping)
+- HTTP (Porta 80)
 
 ### Conceitos
 
@@ -68,6 +71,7 @@ Cada laboratório contém:
 - Firewall em Nível de Sub-rede
 - Arquitetura de Redes na AWS
 - Comunicação com a Internet
+- Provisionamento de Servidor Web
 
 ---
 
